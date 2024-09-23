@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "New tab to google",
+    "version": "1.0",
+    "description": "To google",
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+      }
+  }
+  
